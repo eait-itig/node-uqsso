@@ -1,0 +1,13 @@
+{
+    "name": "uqsso",
+    "description": "UQ Single Sign-On support for zones",
+    "version": "1.0.0",
+    "main": "uqsso.js",
+    "dependencies": {
+        "bunyan": "1.3",
+        "eait-kvd": "1.0"
+    },
+    "engines": {
+        "node": ">=0.9.0"
+    }
+}
